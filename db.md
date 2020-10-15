@@ -1,0 +1,23 @@
+ user:
+    - id
+    - password
+    - email
+    - username
+- merchandise:
+    - id
+    - image
+    - name
+    - size
+    - color
+    - description
+    - price
+    - quantity
+    - types
+    - states
+- cart:
+    - name
+    - id
+    - image
+    - quantity
+    - price
+    - subtotal
